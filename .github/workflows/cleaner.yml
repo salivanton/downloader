@@ -1,4 +1,4 @@
-name: Clear Downloads Folder
+name: 🗑 Clean downloads folder
 
 on:
   workflow_dispatch:
